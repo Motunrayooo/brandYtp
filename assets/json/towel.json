@@ -1,0 +1,158 @@
+[
+  {
+    "id" : "0",
+    "name" : "Plush",
+
+    "imageUrl" : "https://media.istockphoto.com/id/1328095271/photo/bath-terry-towel-of-green-color-isolate-on-a-white-background.jpg?s=2048x2048&w=is&k=20&c=__vnxwAxmElHhjCQkQA2mDggDXfj8ROPH64eU8fRNsY=",
+    "size" : [
+      {
+        "size": "Large"
+      }
+    ],
+    "price" : "12,000NGN",
+    "description" : "premium quality Towels.super fluffy,highly absorbent,softest feel"
+  },
+
+  {
+    "id" : "1",
+    "name" : "Plush",
+    "imageUrl" : "https://images.unsplash.com/photo-1638232928539-6e91c47ddec5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=715&q=80",
+    "size" : [
+      {
+        "size": "Large"
+      }
+    ],
+    "price" : "12,000NGN",
+    "description" : "premium quality Towels.super fluffy,highly absorbent,softest feel"
+  },
+
+  {
+    "id" : "2",
+    "name" : "Mid-Plush",
+    "imageUrl" : "https://media.istockphoto.com/id/184963233/photo/towels.jpg?s=2048x2048&w=is&k=20&c=xs9ROG41Pv2_ZmitZkPKvP_jjI5oD5ZjKZUDuIQPkTM=",
+    "size" : [
+      {
+        "size": "Large"
+      }
+    ],
+    "price" : "9,500NGN",
+    "description" : "mid-weight,absorbent,soft, fluffy,easy to wash"
+  },
+
+  {
+    "id" : "3",
+    "name" : "Mid-Plush",
+    "imageUrl" : "https://gcdnb.pbrd.co/images/URLBaJakaK8Z.jpg?o=1",
+    "size" : [
+      {
+        "size": "Extra-Large"
+      }
+    ],
+    "price" : "14,000NGN",
+    "description": "This towels are suitable for plus size adults.mid-weight,absorbent,soft, fluffy."
+  },
+
+  {
+    "id" : "4",
+    "name" : "Plush",
+    "imageUrl" : "https://i.ibb.co/LYGmhGK/Whats-App-Image-2023-06-04-at-11-53-18.jpg",
+    "size" : [
+      {
+        "size": "Mini"
+      }
+    ],
+    "price" : "4,500NGN",
+    "description": "premium quality.highly absorbent & absorbent,softest feel.suitable as a gym towel,travel towel"
+  },
+
+  {
+    "id" : "5",
+    "name" : "Plush",
+    "imageUrl" : "https://gcdnb.pbrd.co/images/X4ID30XnTebH.jpg?o=1",
+    "size" : [
+      {
+        "size": "mini"
+      }
+    ],
+    "price" : "4,500NGN",
+    "description": "premium quality.highly absorbent & absorbent,softest feel,suitable as a gym towel,travel towel"
+  },
+
+  {
+    "id" : "6",
+    "name" : "Striped",
+    "imageUrl" : "https://gcdnb.pbrd.co/images/UKd9vDVR1fRN.jpg?o=1",
+    "size" : [
+      {
+        "size": "mini"
+      }
+    ],
+    "price" : "4,000NGN",
+    "description": "generous colour combination!,Incredibly soft & absorbent,ideal as a beach towel,gym towel,travel towel & hand towel"
+  },
+
+  {
+    "id" : "7",
+    "name" : "Striped",
+    "imageUrl" : "https://gcdnb.pbrd.co/images/3gO5oRV0Xsou.jpg?o=1",
+    "size" : [
+      {
+        "size": "Mini"
+      }
+    ],
+    "price" : "4000NGN",
+    "description": "generous colour combination!,Incredibly soft & absorbent,ideal as a beach towel,gym towel,travel towel & hand towel"
+  },
+
+  {
+    "id" : "8",
+    "name" : "Striped",
+    "imageUrl" : "https://media.istockphoto.com/id/1397833777/photo/blue-stripped-beach-towel-isolated-on-white-flat-lay-top-view-shot.jpg?s=2048x2048&w=is&k=20&c=K7sPUPAtdzukQMoppwAas1U4_UVlecfkS6BDF5Fpoyg=",
+    "size" : [
+      {
+        "size": "Large"
+      }
+    ],
+    "price" : "8,500NGN",
+    "description": "generous colour combination bath size towel,Incredibly soft & absorbent"
+  },
+
+  {
+    "id" : "9",
+    "name" : "Striped",
+    "imageUrl" : "https://gcdnb.pbrd.co/images/k7oYUm8hw7OP.jpg?o=1",
+    "size" : [
+      {
+        "size": "large"
+      }
+    ],
+    "price" : "8,500NGN",
+    "description": "generous colour combination bath size towel,Incredibly soft & absorbent"
+  },
+
+  {
+    "id" : "10",
+    "name" : "Striped",
+    "imageUrl" : "https://gcdnb.pbrd.co/images/ZGbxMyQ7vN4S.jpg?o=1",
+    "size" : [
+      {
+        "size": "Large"
+      }
+    ],
+    "price" : "8,500NGN",
+    "description": "generous colour combination bath size towel,Incredibly soft & absorbent"
+  },
+
+  {
+    "id" : "11",
+    "name" : "Mid-Plush",
+    "imageUrl" : "https://media.istockphoto.com/id/180825058/photo/colorful-towels.jpg?s=2048x2048&w=is&k=20&c=vaqw-Xw3v-1LumWZfbaeoSKiZFf4PN3XFDPoeGJrSbs=",
+    "size" : [
+      {
+        "size": "Large"
+      }
+    ],
+    "price" : "9,500NGN",
+    "description" : "mid-weight,absorbent,soft, fluffy,easy to wash"
+  }
+]

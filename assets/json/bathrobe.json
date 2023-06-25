@@ -1,0 +1,100 @@
+[
+  {
+    "id" : "12",
+    "name" : "Plush",
+    "imageUrl" : "https://media.istockphoto.com/id/1316244372/photo/blank-black-and-white-hotel-bathrobe-mockup-set-side-view.jpg?s=2048x2048&w=is&k=20&c=ucGSyHvVWPpr5aysA_giNqU1XtFJ30YRc8S3RaGAqNQ=",
+    "size" : [
+      {
+        "size": "M"
+      },
+      {
+        "size": "l"
+      },
+      {
+        "size": "XL"
+      },
+      {
+        "size": "XXL"
+      }
+    ],
+    "price" : "21,000NGN",
+    "description" : "unisex bathrobes.softest feel, super fluffy"
+  },
+
+  {
+    "id" : "13",
+    "name" : "Mid-Plush",
+    "imageUrl" : "https://media.istockphoto.com/id/185091237/photo/bathrobe.jpg?s=612x612&w=0&k=20&c=iFsaLACN-FXOry6iR9WKV_LvkOjO-v50nJKnT6UBjBo=",
+    "size" : [
+      {
+        "size": "L"
+      },
+      {
+        "size": "XL"
+      }
+    ],
+    "price" : "18,000NGN",
+    "description" : "Unisex bathrobes.soft,mid-weight"
+  },
+
+  {
+    "id" : "14",
+    "name" : "Comfy Set",
+    "imageUrl" : "https://media.istockphoto.com/id/1126996807/photo/bathrobe-set.jpg?s=612x612&w=0&k=20&c=iBR34q3P1g9TYl2ioI4UL_9jo-zV0opbzWd5wKXIpB0=",
+    "size" : [
+      {
+        "size": "L"
+      },
+      {
+        "size": "XL"
+      }
+    ],
+    "price" : "24,500NGN",
+    "description" : "Unisex plush bathrobes with matching slippers giving you that cozy feeling"
+  },
+
+  {
+    "id" : "15",
+    "name" : "Plush",
+    "imageUrl" : "https://media.istockphoto.com/id/1436347420/photo/womens-pink-bathrobe-with-belt.jpg?s=2048x2048&w=is&k=20&c=r3oree_UrcGF3pVOS9VPnPi_3EPzKUyULYHVoGepFoM=",
+    "size" : [
+      {
+        "size": "M"
+      },
+      {
+        "size": "L"
+      },
+      {
+        "size": "XL"
+      },
+      {
+        "size": "XXL"
+      }
+    ],
+    "price" : "21,000NGN",
+    "description" : "unisex bathrobes.softest feel, super fluffy"
+  },
+
+  {
+    "id" : "16",
+    "name" : "Plush",
+    "imageUrl" : "https://i.ibb.co/L8FBdJh/bathrobe1.jpg",
+
+    "size" : [
+      {
+        "size": "M"
+      },
+      {
+        "size": "L"
+      },
+      {
+        "size": "XL"
+      },
+      {
+        "size": "XXL"
+      }
+    ],
+    "price" : "21,000NGN",
+    "description" : "unisex bathrobes.softest feel, super fluffy"
+  }
+]

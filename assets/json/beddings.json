@@ -1,0 +1,199 @@
+[
+  {
+    "id": "17",
+    "name": "Patterned Beddings Set",
+    "imageUrl": "https://gcdnb.pbrd.co/images/EDLbSd9pKTEP.png?o=1",
+    "size": [
+      {
+        "size": "4 by 6"
+      }
+    ],
+    "price": "18,000NGN",
+    "description": "comprises of 2 pillow case,a bedsheet & a matching duvet"
+  },
+
+  {
+    "id": "18",
+    "name": "Patterned Beddings Set",
+    "imageUrl": "https://i.ibb.co/5G4gk77/Whats-App-Image-2023-06-04-at-11-51-55.jpg",
+    "size": [
+      {
+        "size": "4 by 6"
+      }
+    ],
+    "price": "18,000NGN",
+    "description": "comprises of 2 pillow case,a bedsheet & a matching duvet"
+  },
+
+  {
+    "id": "19",
+    "name": "Patterned Beddings Set",
+    "imageUrl": "https://i.ibb.co/3TrQyWK/Whats-App-Image-2023-06-04-at-11-51-55-1.jpg",
+    "size": [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "21,000NGN",
+    "description": "comprises of 2 pillow case,a bedsheet & a matching duvet"
+  },
+
+  {
+    "id": "20",
+    "name": "Plain Beddings Set",
+    "imageUrl": "https://media.istockphoto.com/id/1137484444/photo/modern-bedroom-with-white-bed.jpg?s=612x612&w=0&k=20&c=j-qQn-adApYVX140YG1bYytJo9hkpLHXdJJFqc9zAPU=",
+    "size": [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "24,000NGN",
+    "description": "plain beddings with high thread count. comprises of 4 pillow case,a bedsheet and a matching duvet"
+  },
+
+  {
+    "id": "21",
+    "name": "Plain Beddings Set",
+    "imageUrl": "https://gcdnb.pbrd.co/images/oiv5XETgF0FS.png?o=1",
+    "size": [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "24,000NGN",
+    "description": "plain beddings with high thread count.comprises of 4 pillow case,a bedsheet and a matching duvet"
+  },
+
+
+  {
+    "id": "22",
+    "name": "Plain Beddings Set",
+    "imageUrl": "https://gcdnb.pbrd.co/images/WJdebpQgxDFi.png?o=1",
+    "size": [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "24,000NGN",
+    "description": "plain beddings with high thread count.comprises of 4 pillow case,a bedsheet and a matching duvet"
+  },
+
+
+  {
+    "id": "23",
+    "name": "Plain Bedspread",
+    "imageUrl": "https://i.ibb.co/pQLHNvy/Whats-App-Image-2023-06-04-at-12-05-57.jpg",
+    "size":  [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "12,500NGN",
+    "description": "comprises of 4 pillow case & a bedsheet"
+  },
+
+  {
+    "id": "24",
+    "name": "Patterned Bedspread",
+    "imageUrl": "https://gcdnb.pbrd.co/images/OJRyg7BsvrQ9.png?o=1",
+    "size":  [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "7,500NGN",
+    "description": "comprises of 4 pillow case & a bedsheet"
+  },
+
+  {
+    "id": "25",
+    "name": "Patterned Bedspread",
+    "imageUrl": "https://gcdnb.pbrd.co/images/qlHDWEhCLnoS.jpg?o=1",
+    "size":  [
+      {
+        "size": "4 by 6"
+      }
+    ],
+    "price": "6,000NGN",
+    "description": "comprises of 2 pillow case & bedsheet"
+  },
+
+  {
+    "id": "26",
+    "name": "Patterned Bedspread",
+    "imageUrl": "https://i.ibb.co/f92FYwr/Whats-App-Image-2023-06-04-at-12-05-56-1.jpg",
+    "size":  [
+      {
+        "size": "4 by 6"
+      }
+    ],
+    "price": "6,000NGN",
+    "description": "comprises of 2 pillow case & bedsheet"
+  },
+
+  {
+    "id": "27",
+    "name": "Plain Bedspread",
+    "imageUrl": "https://gcdnb.pbrd.co/images/MGLLcy6cI4Yn.jpg?o=1",
+    "size":  [
+      {
+        "size": "4 by 6"
+      }
+    ],
+    "price": "10,500NGN",
+    "description": "comprises of 2 pillow case & bedsheet"
+  },
+
+  {
+    "id": "28",
+    "name": "Blanket",
+    "imageUrl": "https://gcdnb.pbrd.co/images/vOKtnbN9rlB5.jpg?o=1",
+    "size": [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "12,000NGN",
+    "description": "cozy breathable blankets"
+  },
+
+  {
+    "id": "29",
+    "name": "Blanket",
+    "imageUrl": "https://gcdnb.pbrd.co/images/lKe4wDFxq2YI.jpg?o=1",
+    "size": [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "12,000NGN",
+    "description": "cozy breathable blankets"
+  },
+
+  {
+    "id": "30",
+    "name": "Blanket",
+    "imageUrl": "https://gcdnb.pbrd.co/images/gbjXrFr1FAql.jpg?o=1",
+    "size": [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "12,000NGN",
+    "description": "cozy breathable blankets"
+  },
+
+  {
+    "id": "31",
+    "name": "Blanket",
+    "imageUrl": "https://gcdnb.pbrd.co/images/ymxgGVzcl6Gf.jpg?o=1",
+    "size": [
+      {
+        "size": "6 by 6"
+      }
+    ],
+    "price": "12,000NGN",
+    "description": "cozy breathable blankets"
+  }
+
+]
